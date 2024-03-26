@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="toolbartex" parent="TextAppearance.MaterialComponents.Button">-->
+<!--        <item name="android:textSize">16sp</item>-->
+<!--    </style>-->
+
+<!--    <style name="chatify.Toolbar" parent="Widget.AppCompat.Toolbar">-->
+<!--        <item name="android:textColor">@color/white</item>-->
+<!--        <item name="android:background">@color/toolbarcolor</item>-->
+<!--        <item name="titleTextAppearance">@style/toolbartex</item>-->
+<!--        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>-->
+<!--    </style>-->
+</resources>
