@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Insta_part_2</string>
+    <string name="username">UserName</string>
+    <string name="_6421">6421</string>
+    <string name="followers">Followers</string>
+    <string name="_217">217</string>
+    <string name="following">following</string>
+    <string name="edit_profile">Edit Profile</string>
 </resources>
