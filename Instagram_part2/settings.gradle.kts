@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Chatify"
+rootProject.name = "Insta_part_2"
 include(":app")
-include(":app")
+ 

@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Chatify</string>
+    <string name="etidfname">Enter First name</string>
+    <string name="hint_password1">Enter password</string>
+    <string name="hint_password2">Retype password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up">Sign up</string>
+    <string name="chatify">Chatify</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="textbtnexit">Exit</string>
 </resources>
